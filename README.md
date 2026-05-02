@@ -5,6 +5,18 @@
 > 요구사항명세서(SRS)를 자동 생성하는 Streamlit 애플리케이션
 
 ---
+title: Galaxy VOC Collector
+emoji: 📱
+colorFrom: blue
+colorTo: cyan
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app.py
+pinned: false
+hardware: a10g-small
+---
+
+---
 
 ## ⚡ 빠른 시작
 
