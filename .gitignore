@@ -1,0 +1,30 @@
+# 환경설정
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# 모델 캐시 (선택적)
+# models/cache/
+
+# 출력 파일
+output/
+*.docx
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
